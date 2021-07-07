@@ -1,0 +1,38 @@
+{
+  "name": "zseed-cli",
+  "version": "1.0.0",
+  "description": "简单的脚手架",
+  "main": "index.js",
+  "bin": {
+    "zseed": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zseed87/zseed-cli.git"
+  },
+  "keywords": [
+    "zseed87",
+    "scaffold"
+  ],
+  "author": {
+    "name": "zseed87",
+    "email": "982747322@qq.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zseed87/zseed-cli/issues"
+  },
+  "homepage": "https://github.com/zseed87/zseed-cli#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "commander": "^8.0.0",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.5.0",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.1.1"
+  }
+}
