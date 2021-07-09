@@ -1,6 +1,6 @@
 {
-  "name": "zseed-cli",
-  "version": "1.0.0",
+  "name": "@zseed/zseed-cli",
+  "version": "1.0.1",
   "description": "简单的脚手架",
   "main": "index.js",
   "bin": {
